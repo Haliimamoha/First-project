@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, seriff;
+}
+.header{
+   color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+.logo{
+    color: blueviolet;
+    display: flex;
+    gap: 20px;
+}
+.logo i{
+font-size: 2em;
+}
+.logo h1{
+    font-size: 2em;
+}
+.header h1{
+    margin-left: -19%;
+}
+.header ul{
+    display: flex;
+    font-size: 2em;
+    gap: 40px;
+    font-weight: 900;
+   list-style: none;
+}
+.img1{
+    padding-left: 100px;
+    
+    /* margin-right: -60%; */
+}
+/* .headerr{
+    display: flex;
+    margin-right: 200px;
+} */
+.section-one{
+   display: flex;
+       background-color: blueviolet;
+       padding-top: 80px;
+}
+.qoraal{
+    
+    padding: 30px;
+    color: white;
+
+}
+/* .qoraalii{
+    position: absolute;
+    top: -100%;
+    /* margin-bottom: 300px; */
+*/
+
+/* .headerrr{
+    display: flex;
+} */
+button{
+    color: blue;
+    padding:15px 40px;
+    border-radius: 10px;
+    border: 2px white solid;
+}
+/* .section-three{
+    display: flex;
+} */
+.section-three{
+    position: relative;
+    padding:100px;
+    padding-left:200px;
+}
+
+.section-four{
+    position: absolute;
+    top: 20%;
+    left: 34%;
+    padding: 20px 40px;
+    width:700px;
+    height:250px;
+    border-radius: 10px;
+    background-color: white;
+   margin-right: -50%;
+
+}
+.section-five{
+    padding: 10px;
+    display: flex;  
+}
+.section-five button{
+    color: blueviolet;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 1.3em;
+    border: 1px blueviolet solid;
+}
+.img2{
+    padding:30px;
+}
+.section-52{
+    padding: 20px;
+}
+.header2{
+    padding:10px;
+    margin-bottom: -4%;
+    margin-right: -4%;
+    display: flex;
+    gap: 800px;
+}
+.header2 h1{
+    font-size: 2em;
+
+}
+.header2 button{
+    background-color: blueviolet;
+    color: white;
+    padding:15px 30px;
+    font-size: 1.3em;
+    border-radius: 10px;
+    border: 2px white solid;
+    margin-right: -200%;
+}
+.section-six{
+    display: flex;
+    padding: 80px;
+    gap: 40px;
+}
+.seven2{
+    padding:20px;
+    margin-bottom: -4%;
+    margin-right: -4%;
+    display: flex;
+    gap: 800px;
+}
+.seven2 h1{
+    font-size: 2em;
+}
+.seven2 button{
+    background-color: blueviolet;
+    color: white;
+    padding:20px 40px;
+    border-radius: 10px;
+    border: 2px white solid;
+    margin-right: -200%;
+}
+
+.footer{
+    background-color: blueviolet;
+    width: 1300px;
+    height:340px;
+    color: white;
+    font-size: 1.6em;
+    
+    padding:45px 180px;
+   
+}
+.section-sevenn{
+    display: flex;
+    padding:40px 80px;
+    gap: 40px;
+
+}
+.footer h1{
+    padding-top: 90px;
+}
+.btn-header{
+    display: flex;
+    padding-top: 20px;
+    padding-left:300px;
+    gap:15px;
+}
+.btn-header2 button{
+background-color: blueviolet;
+color: white;
+padding: 15px 25px;
+border-radius: 10px;
+ border: 1px white solid;
+ font-size: 0.6m;
+/* margin-left: 20px;
+margin-left: -1%;   */
+}
+.btn-header1 button{
+    color: black;
+    padding:15px 80px;
+    border-radius: 10px;
+    font-size: 0.6m;
+}
+.section-eight{
+    display: flex;
+    padding:40px 80px;
+    gap: 40px;
+}
+.footer p{
+    color:white;
+    padding: 10px 40px;
+    padding-left:350px;
+    font-size: 0.6em;
+}
